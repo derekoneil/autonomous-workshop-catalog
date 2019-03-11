@@ -8,7 +8,7 @@ The Oracle Autonomous Workshop Catalog is the central location for workshops rel
 
   Key Objectives:
 
-  - logging into OCI and console
+  <span class="test">- logging into OCI and console</span>
   - provision ADW
   - Connect using Oracle SQL Developer.
 
